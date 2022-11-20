@@ -1,0 +1,18 @@
+.formationlist{
+    display: flex;
+    flex-direction: column;
+    border: solid 2px #1d0900;
+
+}
+
+.titre{
+    text-align: center;
+    font-size: 4rem;
+}
+
+.bloc{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
